@@ -1,7 +1,19 @@
 # 4in-sensors
 
-![alt text](images/pcbf.svg) ![alt text](images/pcbb.svg)
+**Repo for the sensors module**
 
-![alt text](images/sch.svg)
+<div align="center">
+  
+[![Use Export KiCad Images Workflow](https://github.com/sonicavionics/4in-sensors/actions/workflows/use-export-kicad.yml/badge.svg)](https://github.com/sonicavionics/4in-sensors/actions/workflows/use-export-kicad.yml)
 
-![alt text](images/board.png)
+![alt text](images/pcbf.svg)![alt text](images/pcbb.svg)  
+Footprint
+
+![alt text](images/sch.svg)  
+Schematic
+
+![alt text](images/board.png)  
+3D Render
+
+</div>
+
