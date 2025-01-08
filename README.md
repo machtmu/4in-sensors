@@ -20,7 +20,7 @@
   
   <div>
     <img src="images/pcbf.svg" alt="Front" style="height: auto; width: 400px;">
-    <img src="images/cropped.svg" alt="Back" style="height: auto; width: 400px;"><br>
+    <img src="images/pcbb.svg" alt="Back" style="height: auto; width: 400px;"><br>
     <em>Footprint</em>
   </div>
 </div>
