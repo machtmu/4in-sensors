@@ -9987,7 +9987,7 @@
 		)
 		(uuid "91369de9-92c3-4737-82df-a4d19249e084")
 	)
-	(text "Sensor module 0.1.0"
+	(text "Sensor module 0.2.0"
 		(exclude_from_sim no)
 		(at 493.014 386.842 0)
 		(effects
