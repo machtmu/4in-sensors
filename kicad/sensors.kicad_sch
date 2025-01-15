@@ -19821,7 +19821,7 @@
 		(dnp no)
 		(uuid "8efc66cb-3770-4ec9-aff3-55437c6275c7")
 		(property "Reference" "R3"
-			(at 138.049 77.851 90)
+			(at 136.906 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19838,7 +19838,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 135.89 75.438 90)
 			(effects
 				(font
@@ -19865,7 +19865,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Link" "https://jlcpcb.com/partdetail/23535-0603WAF1500T5E/C22808"
+		(property "JLC Link" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 135.89 73.66 0)
 			(effects
 				(font
@@ -19874,7 +19874,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C22808"
+		(property "LCSC Part #" "C25905"
 			(at 135.89 73.66 0)
 			(effects
 				(font
@@ -19892,7 +19892,7 @@
 				(hide yes)
 			)
 		)
-		(property "info" "150 ohm"
+		(property "info" "5.1k ohm"
 			(at 135.89 73.66 0)
 			(effects
 				(font
@@ -19901,7 +19901,7 @@
 				(hide yes)
 			)
 		)
-		(property "price" "C$0.0013 "
+		(property "price" "C$0.0006"
 			(at 135.89 73.66 0)
 			(effects
 				(font
@@ -22420,7 +22420,7 @@
 		(dnp no)
 		(uuid "b704a36e-a182-4d61-b8ab-0025023f0bbd")
 		(property "Reference" "R4"
-			(at 133.731 66.929 90)
+			(at 134.62 67.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22437,7 +22437,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 135.89 69.342 90)
 			(effects
 				(font
@@ -22464,7 +22464,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Link" "https://jlcpcb.com/partdetail/23535-0603WAF1500T5E/C22808"
+		(property "JLC Link" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 135.89 71.12 0)
 			(effects
 				(font
@@ -22473,7 +22473,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C22808"
+		(property "LCSC Part #" "C25905"
 			(at 135.89 71.12 0)
 			(effects
 				(font
@@ -22491,7 +22491,7 @@
 				(hide yes)
 			)
 		)
-		(property "info" "150 ohm"
+		(property "info" "5.1k ohm"
 			(at 135.89 71.12 0)
 			(effects
 				(font
@@ -22500,7 +22500,7 @@
 				(hide yes)
 			)
 		)
-		(property "price" "C$0.0013 "
+		(property "price" "C$0.0006"
 			(at 135.89 71.12 0)
 			(effects
 				(font
