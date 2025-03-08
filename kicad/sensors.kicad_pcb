@@ -435,7 +435,7 @@
 		)
 		(property ki_fp_filters "WSON*1EP*6x5mm*P1.27mm*EP3.4x4.3mm*")
 		(path "/782ffa63-34c8-428c-a835-32855198500a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -915,7 +915,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/2f5d0949-c303-4a43-8947-b026ea086a15")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1275,7 +1275,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/ef867662-0900-415b-8f0c-bdb22e56733c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1786,7 +1786,7 @@
 			)
 		)
 		(path "/e1fe5ab8-9aa8-4f93-9390-b7ed19f03044")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2308,7 +2308,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/3ee0fbda-737d-480c-89ac-eed4afcd3e5b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -2668,7 +2668,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/e1911f35-e73c-4ce3-8d14-9e15fd968d9b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3028,7 +3028,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/f2fe444c-e5e7-4835-9ff0-dda4059a18ce")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3388,7 +3388,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/89559c38-93bb-4b54-877d-b4b5652f9b96")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -3899,7 +3899,7 @@
 			)
 		)
 		(path "/619affe2-bc8a-411a-938d-4049cd2626f3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_circle
@@ -4327,7 +4327,7 @@
 			)
 		)
 		(path "/d8c0e857-62b9-4f3e-a895-5a06475e9aae")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -4699,7 +4699,7 @@
 				)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "1.5k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "c5cd65da-ecf6-4606-9959-18edb05d6556")
@@ -4881,7 +4881,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/28860385-1a82-4754-827c-53c2633f329a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5240,7 +5240,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/6c646b6a-e8c1-4a45-940f-5be9edb9fe48")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5586,7 +5586,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9c579e54-d5bf-49f5-a111-e3185d0de7b4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -5950,7 +5950,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/c8867598-a1fb-4d88-8fda-df1c27f08cea")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6309,7 +6309,7 @@
 		)
 		(property ki_fp_filters "QFN28_6X6MC_MCH QFN28_6X6MC_MCH-M QFN28_6X6MC_MCH-L")
 		(path "/a6287ded-33ca-438c-b3ad-8b5e2544ded7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8471,7 +8471,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/2c4d41be-f073-4fd7-aab5-f173cef2e618")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8831,7 +8831,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/3def08fa-8089-46d9-ba48-ce20a9a48f52")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9191,7 +9191,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/24918dcf-226a-4fed-9fb6-85517a46fdcc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9551,7 +9551,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/04373786-728e-48b2-9475-7f5f7687054b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9898,7 +9898,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d0f44d7b-6b1e-4615-9bd1-7bd3c4c91889")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10080,7 +10080,7 @@
 				)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "1.5k"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "568e1ac9-c274-4b7a-84dd-4da606e29ec1")
@@ -10262,7 +10262,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/97266627-86a3-48c5-a9b5-1c9ae7074475")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10621,7 +10621,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/413e939b-61fc-4cc4-ba9a-d0f715221527")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10967,7 +10967,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/140662b0-bffd-47da-ad22-77d2f99160fc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11344,7 +11344,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/ea2f0c38-0d1e-4e44-a3a1-c665fe5f49fc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11704,7 +11704,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/e07c2580-6b43-4c75-8fd4-26f92665e67b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12064,7 +12064,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/c25ecc00-8a1f-445e-9bf6-559b9d5cd662")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12333,7 +12333,7 @@
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/c511364c-4b07-46ad-a274-8573499ae0d9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12891,7 +12891,7 @@
 		)
 		(property ki_fp_filters "ABM8-272-T3_ABR")
 		(path "/04007d3a-1488-4216-ac6f-ab955f5c4f32")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_circle
@@ -13363,7 +13363,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/13abbe31-e364-4109-8278-a89ea44b2b32")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13723,7 +13723,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/b12e2252-30f6-44fe-a483-0d956b12007e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14083,7 +14083,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/f22bb526-d311-4f6c-90d9-c7699d7b8cc1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14430,7 +14430,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/45e4c46a-84f1-4c9c-8683-6e8dcc92e0bb")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14790,7 +14790,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/03cd207b-9969-4e00-9737-c086141015fd")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15150,7 +15150,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/47942fd3-2642-49ae-8438-47df7ec622c5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15497,7 +15497,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/6e4a415d-b1d3-4b37-80c7-a894da33ebf9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15896,7 +15896,7 @@
 		)
 		(property ki_fp_filters "LGA*5.2x3.8mm*P0.5mm*")
 		(path "/41792346-794a-4605-be0d-60dab0497c2a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16552,7 +16552,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/d95f6f5b-e50c-472d-a611-a2a24af57aca")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17063,7 +17063,7 @@
 			)
 		)
 		(path "/b444d259-d264-423e-ac9e-496b5690cee2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17398,7 +17398,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/fb38fe94-dd1b-459c-a053-f52f8c8f9770")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17758,7 +17758,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/a0b39a78-252e-4923-8211-bccce047c603")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18105,7 +18105,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/b704a36e-a182-4d61-b8ab-0025023f0bbd")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18501,7 +18501,7 @@
 		)
 		(property ki_fp_filters "QFN*1EP*7x7mm?P0.4mm*")
 		(path "/9cedd8a0-e99d-46c0-a771-83a7d510bfe4")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19535,7 +19535,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/9a62d584-57d8-4165-a1a9-c3aeb4190fc3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19895,7 +19895,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/c315a006-e183-49ea-a301-ed6e383134d0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20255,7 +20255,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/6dac44a2-5f4a-4436-bee6-845e785f1b0f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20615,7 +20615,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/7d070ebd-a272-4095-b438-4887c0e6f55d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20975,7 +20975,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b7081d9e-f18f-4da1-ace5-1e7dcca190aa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
@@ -21316,7 +21316,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8efc66cb-3770-4ec9-aff3-55437c6275c7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21675,7 +21675,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/6d452015-0681-4a4c-8d20-3cf344780534")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22022,7 +22022,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/20a07716-d489-4d01-bae2-ffb523e3e50f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22369,7 +22369,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/0e93a4e3-abd6-4df4-9b35-52e24621007d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22789,7 +22789,7 @@
 			)
 		)
 		(path "/ca739c02-884c-42b7-adc5-c76e91e92703")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23357,7 +23357,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/942ccb8c-cbb4-4e52-b1c9-78bcf0ec797e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23717,7 +23717,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/4683cff1-c3b2-43e8-82d4-310afee1af4e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24064,7 +24064,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/567ff1be-30b1-4da7-ab0c-9db1a6b248b6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24410,7 +24410,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/14864a5b-71c5-408e-afa8-f7d9705b2885")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24757,7 +24757,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/65bd345a-d8e1-47e6-9bd8-899bb945a947")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25315,7 +25315,7 @@
 		)
 		(property ki_fp_filters "*PCIexpress*")
 		(path "/651448f3-b5fb-4f96-80be-5ce3763be9c3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "sensors.kicad_sch")
 		(attr exclude_from_pos_files dnp)
 		(fp_line
